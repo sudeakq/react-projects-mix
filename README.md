@@ -18,7 +18,7 @@ npm start
 
 Go to http://localhost:3000 in your browser and view the project.
 
-##Making a Contribution
+## Making a Contribution
 This repo is an open source project and we welcome your contributions. If you would like to add a new project, improve an existing project, or make bug fixes, please submit a pull request. Your contributions will be greatly appreciated.
 
 Using this collection of projects, you can improve your React skills and gain experience in different projects. By reviewing the README files in each project folder, you can learn how the projects work and what technologies are used.
