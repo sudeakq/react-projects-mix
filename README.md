@@ -1,19 +1,19 @@
 # React Projects Mix
 This repo provides a collection of various React projects. Each project is located in a different folder and can be used independently. These projects can be a great resource for developers who want to learn and practice React.
 
-## Installation
+### Installation
 Follow the steps below to run these projects in your local environment:
 
-## Clone this repo:
+### Clone this repo:
 git clone https://github.com/sudeakq/react-projects-mix.git
 
-## Navigate to the relevant project folder:
+### Navigate to the relevant project folder:
 cd react-projects-mix/project-name
 
-## Run the following command to install the required dependencies:
+### Run the following command to install the required dependencies:
 npm install
 
-## Run the following command to start the project:
+### Run the following command to start the project:
 npm start
 
 Go to http://localhost:3000 in your browser and view the project.
