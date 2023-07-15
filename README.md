@@ -23,4 +23,4 @@ This repo is an open source project and we welcome your contributions. If you wo
 
 Using this collection of projects, you can improve your React skills and gain experience in different projects. By reviewing the README files in each project folder, you can learn how the projects work and what technologies are used.
 
-Happy coding!
+Happy coding!..
