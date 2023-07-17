@@ -1,5 +1,5 @@
 # React Projects Mix
-This repo provides a collection of various React projects. Each project is located in a different folder and can be used independently. These projects can be a great resource for developers who want to learn and practice React...
+This repo provides a collection of various React projects. Each project is located in a different folder and can be used independently. These projects can be a great resource for developers who want to learn and practice React.
 
 ### Installation
 Follow the steps below to run these projects in your local environment:
