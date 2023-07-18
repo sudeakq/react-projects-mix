@@ -1,0 +1,30 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+}
+
+.cardBody {
+    display: flex;
+    align-items: center;
+}
+
+.cardBody img {
+    width: 100px;
+    height: 140px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.cardTitle {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.cardDescription {
+    font-size: 0.9rem;
+    color: #555;
+}
