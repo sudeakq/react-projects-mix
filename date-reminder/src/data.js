@@ -1,27 +1,25 @@
-const data = [{
+export default [{
         id: 1,
-        title: "çocuk bayramı",
-        img: "https://iasbh.tmgrup.com.tr/a4abed/650/344/0/237/1600/1076?u=https://isbh.tmgrup.com.tr/sbh/2022/03/02/cocuk-sagliginda-kritik-donem-ilk-1000-gun-1646205388696.jpg",
+        title: "Ulusal Egemenlik ve Çocuk Bayramı",
+        img: "https://i.pinimg.com/736x/7f/f6/79/7ff679ba1eb9edac44cf338f4919a86e.jpg",
         date: "23 Nisan"
     },
     {
         id: 2,
-        title: "çocuk bayramı2",
-        img: "https://iasbh.tmgrup.com.tr/a4abed/650/344/0/237/1600/1076?u=https://isbh.tmgrup.com.tr/sbh/2022/03/02/cocuk-sagliginda-kritik-donem-ilk-1000-gun-1646205388696.jpg",
-        date: "23 Nisan 2021"
+        title: "Zafer Bayramı",
+        img: "https://tatd.org.tr/wp-content/uploads/2021/11/zafer-bayrami.jpg",
+        date: "30 Ağustos"
     },
     {
         id: 3,
-        title: "çocuk bayramı3",
-        img: "https://iasbh.tmgrup.com.tr/a4abed/650/344/0/237/1600/1076?u=https://isbh.tmgrup.com.tr/sbh/2022/03/02/cocuk-sagliginda-kritik-donem-ilk-1000-gun-1646205388696.jpg",
-        date: "23 Nisan 2022"
+        title: "Atatürkü Anma ,Gençlik ve Spor Bayramı",
+        img: "https://tvhb.org.tr/wp-content/uploads/2019/05/b5eaf96c-15a2-401a-9fa7-a61e6c8e09c3.jpg",
+        date: "19 Mayıs"
     },
     {
         id: 4,
-        title: "çocuk bayramı4",
-        img: "https://iasbh.tmgrup.com.tr/a4abed/650/344/0/237/1600/1076?u=https://isbh.tmgrup.com.tr/sbh/2022/03/02/cocuk-sagliginda-kritik-donem-ilk-1000-gun-1646205388696.jpg",
-        date: "23 Nisan 2023"
-    },
-];
-
-export default data;
+        title: "Cumhuriyet Bayramı",
+        img: "https://cdn1.vectorstock.com/i/1000x1000/64/45/29-ekim-cumhuriyet-bayrami-kutlu-olsun-turkey-vector-34066445.jpg",
+        date: "29 Ekim"
+    }
+]

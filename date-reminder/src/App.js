@@ -1,13 +1,25 @@
-import data from './data';
+import React, { useState } from 'react';
 import './App.css';
-import { React, UseState } from 'react';
-console.log(data);
+import data from './data.js';
+
 function App() {
+  const [holidays, setHolidays] = useState(data);
   return (
     <main>
-      <section className="container">
-        <h3>NATIONAL HOLIDAY DATES</h3>
-        <button>Clear All</button>
+      <section className='container'>
+        <h3>National Holidays Dates</h3>
+        {holidays.map((holiday) => {
+          return (
+            <div key={holiday.id} className="holiday">
+              <img src={holiday.img} />
+              <div>
+                <p>{holiday.title}</p>
+                <p>{holiday.date}</p>
+              </div>
+            </div>
+          )
+        })}
+        <button onClick={() => setHolidays([])}>Clear All</button>
       </section>
     </main>
   );
