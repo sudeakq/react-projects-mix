@@ -16,7 +16,7 @@ npm install
 ### Run the following command to start the project:
 npm start
 
-Go to http://localhost:3000 in your browser and view the project.
+Go to http://localhost:3000 in your browser and view the project
 
 ## Making a Contribution
 This repo is an open source project and we welcome your contributions. If you would like to add a new project, improve an existing project, or make bug fixes, please submit a pull request. Your contributions will be greatly appreciated.
