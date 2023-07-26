@@ -1,0 +1,65 @@
+{
+    "people": [
+      {
+        "id": 1,
+        "image": "https://example.com/image1.jpg",
+        "title": "John Doe",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": 2,
+        "image": "https://example.com/image2.jpg",
+        "title": "Jane Smith",
+        "description": "Praesent in neque eu lectus faucibus gravida."
+      },
+      {
+        "id": 3,
+        "image": "https://example.com/image3.jpg",
+        "title": "Michael Johnson",
+        "description": "Sed eu purus ac magna dictum varius eu non nisl."
+      },
+      {
+        "id": 4,
+        "image": "https://example.com/image4.jpg",
+        "title": "Emily Williams",
+        "description": "Vestibulum dapibus nunc at ante facilisis, eu luctus nunc malesuada."
+      },
+      {
+        "id": 5,
+        "image": "https://example.com/image5.jpg",
+        "title": "Robert Brown",
+        "description": "Quisque volutpat mauris ut nibh fermentum auctor."
+      },
+      {
+        "id": 6,
+        "image": "https://example.com/image6.jpg",
+        "title": "Sophia Miller",
+        "description": "Etiam et odio volutpat, gravida justo vel, facilisis turpis."
+      },
+      {
+        "id": 7,
+        "image": "https://example.com/image7.jpg",
+        "title": "William Wilson",
+        "description": "Nulla facilisi. Integer eu justo nec nisi euismod posuere."
+      },
+      {
+        "id": 8,
+        "image": "https://example.com/image8.jpg",
+        "title": "Olivia Lee",
+        "description": "Fusce sed purus nec velit efficitur venenatis."
+      },
+      {
+        "id": 9,
+        "image": "https://example.com/image9.jpg",
+        "title": "James Taylor",
+        "description": "Aenean at dui vel velit vehicula fringilla."
+      },
+      {
+        "id": 10,
+        "image": "https://example.com/image10.jpg",
+        "title": "Ava Clark",
+        "description": "Mauris in purus nec arcu aliquam fringilla id eu mi."
+      }
+    ]
+  }
+  
