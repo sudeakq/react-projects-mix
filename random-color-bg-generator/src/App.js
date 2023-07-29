@@ -10,7 +10,9 @@ function App() {
   }
   return (
     <div className="App">
-
+      <h1>{hex}</h1>
+      <button onClick={randomHex}>Click for new background</button>
+      <button>copy the hex value</button>
     </div>
   );
 }
