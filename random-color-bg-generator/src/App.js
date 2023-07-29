@@ -20,7 +20,7 @@ function App() {
 
       <button onClick={() => navigator.clipboard.writeText(hex)}>Copy the hex Value</button>
 
-      <h4><a href='https://github.com/fdnakn' target="_blank">Visit my Github Profile</a></h4>
+      <h4><a href='https://github.com/sudeakq' target="_blank">Visit my Github Profile</a></h4>
 
     </div>
   );
