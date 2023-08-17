@@ -1,23 +1,31 @@
-import logo from './logo.svg';
+
 import './App.css';
+import axios from 'axios';
+import { useState } from 'react';
 
 function App() {
+
+  const [profilName, setProfilName] = useState("");
+  const [profilCell, setProfilCell] = useState("");
+  const [profilImage, setProfilImage] = useState("");
+  const [profilEmail, setProfilEmail] = useState("");
+
+
+  const ProfileData = async () => {
+    try {
+      const res = await axios.get("https://randomuser.me/api");
+      console.log(res);
+
+    }
+    catch (error) {
+      console.log("error");
+    }
+  }
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
     </div>
   );
 }
