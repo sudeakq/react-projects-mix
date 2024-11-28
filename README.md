@@ -1,4 +1,15 @@
 # React Projects Mix
+This project contains mini react practice projects here is the titles of projects:
+Card
+date-reminder
+image-gallery
+random-color-bg-generator
+random-number-generator
+random-profile
+random-quote-generator
+search-app
+to-do-list
+
 
 This repo provides a collection of various React projects. Each project is located in a different folder and can be used independently. These projects can be a great resource for developers who want to learn and practice React.
 
